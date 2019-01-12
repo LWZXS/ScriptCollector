@@ -1,4 +1,4 @@
-# PythonRaft
+# ScriptBoy
 ## 收集这些Python脚本
 - CMS Exploit
 - 逆向反编译插件
@@ -7,7 +7,7 @@
 - 信息收集
 - sqlmap tamper
 
-## 欢迎加群提供你的脚本
+
     
 
 
