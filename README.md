@@ -1,5 +1,5 @@
-# ScriptBoy
-## 收集这些Python脚本
+# Collect Script
+## Some Script
 - CMS Exploit
 - 逆向反编译插件
 - 渗透测试
